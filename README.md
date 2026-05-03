@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Raoshan Kumar Verma
-============================================================================================================================================
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Raoshan Kumar Verma
+</h1>
 
-Full Stack Web Developer | Cybersecurity Enthusiast
----------------------------------------------------
+<h3 align="center">
+  🚀 Full Stack Web Developer | 🔐 Cybersecurity Enthusiast
+</h3>
 
 # 💫 About Me:
 Building fast, modern, and user-friendly web experiences while diving deep into the world of cybersecurity and secure development.
@@ -21,6 +23,8 @@ Fueled by curiosity, clean code, and creativity — always open to collaborating
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-zeta-three-86.vercel.app/api?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raoshan-Kumar-Verma&theme=tokyonight)<br/>
-![](https://github-readme-stats-zeta-three-86.vercel.app/api/top-langs/?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-zeta-three-86.vercel.app/api?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats-zeta-three-86.vercel.app/api/top-langs/?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
