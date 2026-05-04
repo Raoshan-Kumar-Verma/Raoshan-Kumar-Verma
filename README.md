@@ -24,11 +24,11 @@ Fueled by curiosity, clean code, and creativity — always open to collaborating
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-zeta-three-86.vercel.app/api?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-zeta-three-86.vercel.app/api?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&cache_seconds=1800" />
 </p>
 <p align = "center">
-  <img src="https://github-readme-stats-zeta-three-86.vercel.app/api/top-langs/?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats-zeta-three-86.vercel.app/api/top-langs/?username=Raoshan-Kumar-Verma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
 </p>
